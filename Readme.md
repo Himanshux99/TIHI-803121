@@ -8,3 +8,4 @@
 - [x] Day 1: Foundations of ML & Math Essentials
 - [x] Day 2: Regression Models & Optimization
 - [x] Day 3: Classification Fundamentals
+- [x] Day 4: Model Evaluation & Regularization
