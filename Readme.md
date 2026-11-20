@@ -9,3 +9,6 @@
 - [x] Day 2: Regression Models & Optimization
 - [x] Day 3: Classification Fundamentals
 - [x] Day 4: Model Evaluation & Regularization
+
+### Phase 2: Deep Learning and 
+- [x] Day 5: Intoduction to PyTorch & Tensors
