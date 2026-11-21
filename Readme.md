@@ -13,3 +13,4 @@
 ### Phase 2: Deep Learning and 
 - [x] Day 5: Intoduction to PyTorch & Tensors
 - [x] DAY 6: Multi-Layer Perceptrons (MLPs)
+- [x] DAY 7: Advanced Training Techniques
